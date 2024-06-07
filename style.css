@@ -1,0 +1,25 @@
+body {
+    background-image: url(cerebroliso.jpg);
+    background-size: 100%;
+    background-repeat: no-repeat;
+}
+
+h1 {
+    display: flex;
+    justify-content: center;
+}
+
+h3 {    
+    color: #006437;
+    display: flex;
+    justify-content: center;
+}
+
+.receba  {
+    display: flex;
+    justify-content: center;
+    margin-top: -15%;
+    height: 1080px;
+    opacity: 50%;
+    image-resolution: 20%;
+}
